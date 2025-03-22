@@ -23,7 +23,10 @@ options:
     sizing_mode: fixed
     thread_safe_setters: ''
     title: Not titled yet
+<<<<<<< HEAD
     window_size: (1000,1000)
+=======
+>>>>>>> origin/P2_Kmila
   states:
     bus_sink: false
     bus_source: false
@@ -43,10 +46,14 @@ blocks:
     bus_source: false
     bus_structure: null
 <<<<<<< HEAD
+<<<<<<< HEAD
     coordinate: [256, 12.0]
 =======
     coordinate: [309, 14]
 >>>>>>> origin/P2_Cuadros
+=======
+    coordinate: [309, 14]
+>>>>>>> origin/P2_Kmila
     rotation: 0
     state: enabled
 - name: Rb
@@ -71,10 +78,14 @@ blocks:
     bus_source: false
     bus_structure: null
 <<<<<<< HEAD
+<<<<<<< HEAD
     coordinate: [824, 12.0]
 =======
     coordinate: [684, 10]
 >>>>>>> origin/P2_Cuadros
+=======
+    coordinate: [684, 10]
+>>>>>>> origin/P2_Kmila
     rotation: 0
     state: enabled
 - name: h
@@ -82,19 +93,27 @@ blocks:
   parameters:
     comment: ''
 <<<<<<< HEAD
+<<<<<<< HEAD
     value: np.array([1])
 =======
     value: np.array([1,1,1,1])
 >>>>>>> origin/P2_Cuadros
+=======
+    value: np.array([1,1,1,1])
+>>>>>>> origin/P2_Kmila
   states:
     bus_sink: false
     bus_source: false
     bus_structure: null
 <<<<<<< HEAD
+<<<<<<< HEAD
     coordinate: [528, 20.0]
 =======
     coordinate: [499, 10]
 >>>>>>> origin/P2_Cuadros
+=======
+    coordinate: [499, 10]
+>>>>>>> origin/P2_Kmila
     rotation: 0
     state: enabled
 - name: samp_rate
@@ -107,10 +126,14 @@ blocks:
     bus_source: false
     bus_structure: null
 <<<<<<< HEAD
+<<<<<<< HEAD
     coordinate: [1056, 12.0]
 =======
     coordinate: [778, 14]
 >>>>>>> origin/P2_Cuadros
+=======
+    coordinate: [778, 14]
+>>>>>>> origin/P2_Kmila
     rotation: 0
     state: enabled
 - name: Menu
@@ -145,10 +168,14 @@ blocks:
     bus_source: false
     bus_structure: null
 <<<<<<< HEAD
+<<<<<<< HEAD
     coordinate: [800, 476.0]
 =======
     coordinate: [576, 475]
 >>>>>>> origin/P2_Cuadros
+=======
+    coordinate: [576, 475]
+>>>>>>> origin/P2_Kmila
     rotation: 0
     state: true
 - name: analog_const_source_x_0_0
@@ -166,10 +193,14 @@ blocks:
     bus_source: false
     bus_structure: null
 <<<<<<< HEAD
+<<<<<<< HEAD
     coordinate: [192, 112.0]
 =======
     coordinate: [274, 127]
 >>>>>>> origin/P2_Cuadros
+=======
+    coordinate: [274, 127]
+>>>>>>> origin/P2_Kmila
     rotation: 0
     state: enabled
 - name: analog_noise_source_x_0
@@ -189,10 +220,14 @@ blocks:
     bus_source: false
     bus_structure: null
 <<<<<<< HEAD
+<<<<<<< HEAD
     coordinate: [792, 268.0]
 =======
     coordinate: [792, 258]
 >>>>>>> origin/P2_Cuadros
+=======
+    coordinate: [792, 258]
+>>>>>>> origin/P2_Kmila
     rotation: 0
     state: true
 - name: analog_random_source_x_0
@@ -213,6 +248,7 @@ blocks:
     bus_source: false
     bus_structure: null
 <<<<<<< HEAD
+<<<<<<< HEAD
     coordinate: [512, 276.0]
     rotation: 0
     state: disabled
@@ -221,6 +257,11 @@ blocks:
     rotation: 0
     state: true
 >>>>>>> origin/P2_Cuadros
+=======
+    coordinate: [9, 147]
+    rotation: 0
+    state: true
+>>>>>>> origin/P2_Kmila
 - name: blocks_add_xx_0
   id: blocks_add_xx
   parameters:
@@ -254,10 +295,14 @@ blocks:
     bus_source: false
     bus_structure: null
 <<<<<<< HEAD
+<<<<<<< HEAD
     coordinate: [280, 200.0]
 =======
     coordinate: [146, 172]
 >>>>>>> origin/P2_Cuadros
+=======
+    coordinate: [146, 172]
+>>>>>>> origin/P2_Kmila
     rotation: 0
     state: true
 - name: blocks_complex_to_mag_squared_0
@@ -273,6 +318,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
+<<<<<<< HEAD
 <<<<<<< HEAD
     coordinate: [632, 680.0]
     rotation: 0
@@ -327,6 +373,11 @@ blocks:
     rotation: 0
     state: true
 >>>>>>> origin/P2_Cuadros
+=======
+    coordinate: [578, 644]
+    rotation: 0
+    state: true
+>>>>>>> origin/P2_Kmila
 - name: blocks_multiply_const_vxx_0
   id: blocks_multiply_const_vxx
   parameters:
@@ -361,10 +412,14 @@ blocks:
     bus_source: false
     bus_structure: null
 <<<<<<< HEAD
+<<<<<<< HEAD
     coordinate: [1048, 668.0]
 =======
     coordinate: [869, 639]
 >>>>>>> origin/P2_Cuadros
+=======
+    coordinate: [869, 639]
+>>>>>>> origin/P2_Kmila
     rotation: 0
     state: true
 - name: blocks_null_sink_0
@@ -382,10 +437,14 @@ blocks:
     bus_source: false
     bus_structure: null
 <<<<<<< HEAD
+<<<<<<< HEAD
     coordinate: [256, 456.0]
 =======
     coordinate: [200, 456.0]
 >>>>>>> origin/P2_Cuadros
+=======
+    coordinate: [168, 458]
+>>>>>>> origin/P2_Kmila
     rotation: 0
     state: true
 - name: blocks_stream_to_vector_0
@@ -423,6 +482,7 @@ blocks:
     bus_source: false
     bus_structure: null
 <<<<<<< HEAD
+<<<<<<< HEAD
     coordinate: [960, 160.0]
     rotation: 0
     state: true
@@ -447,6 +507,11 @@ blocks:
     rotation: 0
     state: true
 >>>>>>> origin/P2_Cuadros
+=======
+    coordinate: [851, 175]
+    rotation: 0
+    state: true
+>>>>>>> origin/P2_Kmila
 - name: epy_block_0
   id: epy_block
   parameters:
@@ -472,10 +537,14 @@ blocks:
     bus_source: false
     bus_structure: null
 <<<<<<< HEAD
+<<<<<<< HEAD
     coordinate: [840, 680.0]
 =======
     coordinate: [729, 646]
 >>>>>>> origin/P2_Cuadros
+=======
+    coordinate: [729, 646]
+>>>>>>> origin/P2_Kmila
     rotation: 0
     state: true
 - name: fft_vxx_0
@@ -497,10 +566,14 @@ blocks:
     bus_source: false
     bus_structure: null
 <<<<<<< HEAD
+<<<<<<< HEAD
     coordinate: [416, 616.0]
 =======
     coordinate: [377, 610]
 >>>>>>> origin/P2_Cuadros
+=======
+    coordinate: [377, 610]
+>>>>>>> origin/P2_Kmila
     rotation: 0
     state: true
 - name: import_0
@@ -514,10 +587,14 @@ blocks:
     bus_source: false
     bus_structure: null
 <<<<<<< HEAD
+<<<<<<< HEAD
     coordinate: [1208, 16.0]
 =======
     coordinate: [865, 15]
 >>>>>>> origin/P2_Cuadros
+=======
+    coordinate: [865, 15]
+>>>>>>> origin/P2_Kmila
     rotation: 0
     state: true
 - name: interp_fir_filter_xxx_0
@@ -770,7 +847,10 @@ blocks:
     label7: ''
     label8: ''
     label9: ''
+<<<<<<< HEAD
     legend: 'True'
+=======
+>>>>>>> origin/P2_Kmila
     maxoutbuf: '0'
     minoutbuf: '0'
     name: '"PSD (Watts/Hz)"'
@@ -802,10 +882,14 @@ blocks:
     bus_source: false
     bus_structure: null
 <<<<<<< HEAD
+<<<<<<< HEAD
     coordinate: [1344, 624.0]
 =======
     coordinate: [1069, 584]
 >>>>>>> origin/P2_Cuadros
+=======
+    coordinate: [1069, 584]
+>>>>>>> origin/P2_Kmila
     rotation: 0
     state: true
 - name: virtual_sink_0_1
@@ -819,10 +903,14 @@ blocks:
     bus_source: false
     bus_structure: null
 <<<<<<< HEAD
+<<<<<<< HEAD
     coordinate: [336.0, 312]
 =======
     coordinate: [237, 245]
 >>>>>>> origin/P2_Cuadros
+=======
+    coordinate: [237, 245]
+>>>>>>> origin/P2_Kmila
     rotation: 270
     state: true
 - name: virtual_sink_0_1_0
@@ -836,10 +924,14 @@ blocks:
     bus_source: false
     bus_structure: null
 <<<<<<< HEAD
+<<<<<<< HEAD
     coordinate: [1184.0, 264]
 =======
     coordinate: [1008, 261]
 >>>>>>> origin/P2_Cuadros
+=======
+    coordinate: [1008, 261]
+>>>>>>> origin/P2_Kmila
     rotation: 270
     state: enabled
 - name: virtual_sink_0_1_0_0
@@ -853,10 +945,14 @@ blocks:
     bus_source: false
     bus_structure: null
 <<<<<<< HEAD
+<<<<<<< HEAD
     coordinate: [1048.0, 344]
 =======
     coordinate: [951, 332]
 >>>>>>> origin/P2_Cuadros
+=======
+    coordinate: [951, 332]
+>>>>>>> origin/P2_Kmila
     rotation: 270
     state: enabled
 - name: virtual_source_0
@@ -865,10 +961,14 @@ blocks:
     alias: ''
     comment: ''
 <<<<<<< HEAD
+<<<<<<< HEAD
     stream_id: p4
 =======
     stream_id: p5
 >>>>>>> origin/P2_Cuadros
+=======
+    stream_id: p4
+>>>>>>> origin/P2_Kmila
   states:
     bus_sink: false
     bus_source: false
@@ -882,10 +982,14 @@ blocks:
     alias: ''
     comment: ''
 <<<<<<< HEAD
+<<<<<<< HEAD
     stream_id: p5
 =======
     stream_id: p4
 >>>>>>> origin/P2_Cuadros
+=======
+    stream_id: p5
+>>>>>>> origin/P2_Kmila
   states:
     bus_sink: false
     bus_source: false
@@ -898,25 +1002,35 @@ connections:
 - [analog_const_source_x_0_0, '0', blocks_add_xx_0, '0']
 - [analog_noise_source_x_0, '0', virtual_sink_0_1_0_0, '0']
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 - [analog_random_source_x_0, '0', blocks_char_to_float_0, '0']
 >>>>>>> origin/P2_Cuadros
+=======
+- [analog_random_source_x_0, '0', blocks_char_to_float_0, '0']
+>>>>>>> origin/P2_Kmila
 - [blocks_add_xx_0, '0', blocks_multiply_const_vxx_0, '0']
 - [blocks_char_to_float_0, '0', blocks_add_xx_0, '1']
 - [blocks_char_to_float_0, '0', virtual_sink_0_1, '0']
 - [blocks_complex_to_mag_squared_0, '0', epy_block_0, '0']
 <<<<<<< HEAD
+<<<<<<< HEAD
 - [blocks_file_source_1, '0', blocks_unpack_k_bits_bb_0, '0']
 =======
 >>>>>>> origin/P2_Cuadros
+=======
+>>>>>>> origin/P2_Kmila
 - [blocks_multiply_const_vxx_0, '0', interp_fir_filter_xxx_0, '0']
 - [blocks_multiply_const_vxx_1, '0', qtgui_vector_sink_f_0, '0']
 - [blocks_stream_to_vector_0, '0', fft_vxx_0, '0']
 - [blocks_throttle_0, '0', virtual_sink_0_1_0, '0']
 <<<<<<< HEAD
+<<<<<<< HEAD
 - [blocks_unpack_k_bits_bb_0, '0', blocks_char_to_float_0, '0']
 =======
 >>>>>>> origin/P2_Cuadros
+=======
+>>>>>>> origin/P2_Kmila
 - [epy_block_0, '0', blocks_multiply_const_vxx_1, '0']
 - [fft_vxx_0, '0', blocks_complex_to_mag_squared_0, '0']
 - [interp_fir_filter_xxx_0, '0', blocks_throttle_0, '0']
@@ -928,7 +1042,10 @@ connections:
 metadata:
   file_format: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   grc_version: 3.10.10.0
 =======
   grc_version: v3.10.11.0-89-ga17f69e7
 >>>>>>> origin/P2_Cuadros
+=======
+>>>>>>> origin/P2_Kmila
