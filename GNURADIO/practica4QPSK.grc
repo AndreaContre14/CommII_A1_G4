@@ -121,7 +121,11 @@ blocks:
   id: variable
   parameters:
     comment: ''
+<<<<<<< HEAD
     value: (0.77+0.77j,-0.77-0.77j,-0.77-0.77j,0.77-0.77j)
+=======
+    value: (0.77+0.77j,-0.77+0.77j,-0.77-0.77j,0.77-0.77j)
+>>>>>>> origin/P4_Cuadros
   states:
     bus_sink: false
     bus_source: false
